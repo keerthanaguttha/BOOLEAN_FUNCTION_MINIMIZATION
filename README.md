@@ -33,7 +33,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 ```
-
 Program to implement the given logic function and
 to verify its operations in quartus using Verilog programming. 
 
@@ -52,9 +51,6 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 ```
-
-
-
 
 **RTL realization:**
 
